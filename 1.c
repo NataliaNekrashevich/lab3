@@ -3,6 +3,8 @@
 int main()
 {
 	int var;
+	// task extended
+	// to do
         printf("Enter your age in years: ");
         int age =0;
         scanf("%d", &age); //enter data     
