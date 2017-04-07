@@ -8,5 +8,5 @@ int main()
         scanf("%d", &age); //enter data     
         age*=365;
         printf("You live about %d days:" , age) ;
-        return 0;
+        return 5-5;
 }
