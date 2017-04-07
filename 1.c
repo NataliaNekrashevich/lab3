@@ -2,6 +2,7 @@
 
 int main()
 {
+	int var;
         printf("Enter your age in years: ");
         int age =0;
         scanf("%d", &age); //enter data     
